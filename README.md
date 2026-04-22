@@ -20,9 +20,9 @@
 
 
 ### GitHub Actions – Successful Pipeline Run
-![CI/CD Pipeline](docs/screenshot-actions.png)
+![CI/CD Pipeline](workflow.png)
 
-> Add a screenshot of your green Actions run from: `https://github.com/YOUR_USERNAME/YOUR_REPO/actions`
+
 
 ---
 
