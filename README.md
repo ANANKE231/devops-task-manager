@@ -6,23 +6,22 @@
 
 ## 🌐 Live Application
 
-**[https://devops-task-manager.onrender.com](https://devops-task-manager.onrender.com)**
+**[https://devops-task-manager-ej5o.onrender.com/](https://devops-task-manager-ej5o.onrender.com/)**
 
-> ⚠️ Replace this URL with your actual Render URL after deploying.
+
 
 ---
 
 ## 📸 Screenshots
 
 ### Hosted Application
-![App Screenshot](docs/screenshot-app.png)
+![App Screenshot](Screenshot 2026-04-23 002801.png)
 
-> Add a screenshot of your running app here. You can take one once it's deployed on Render.
+
 
 ### GitHub Actions – Successful Pipeline Run
 ![CI/CD Pipeline](docs/screenshot-actions.png)
-
-> Add a screenshot of your green Actions run from: `https://github.com/YOUR_USERNAME/YOUR_REPO/actions`
+ `https://github.com/YOUR_USERNAME/YOUR_REPO/actions`
 
 ---
 
