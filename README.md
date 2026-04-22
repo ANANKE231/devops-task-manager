@@ -15,13 +15,14 @@
 ## 📸 Screenshots
 
 ### Hosted Application
-![App Screenshot](Screenshot 2026-04-23 002801.png)
+![App Screenshot](appscreenshoot.png)
 
 
 
 ### GitHub Actions – Successful Pipeline Run
 ![CI/CD Pipeline](docs/screenshot-actions.png)
- `https://github.com/YOUR_USERNAME/YOUR_REPO/actions`
+
+> Add a screenshot of your green Actions run from: `https://github.com/YOUR_USERNAME/YOUR_REPO/actions`
 
 ---
 
