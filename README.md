@@ -32,8 +32,17 @@ Every time I push code to the `main` branch, GitHub Actions automatically:
 So broken code can never reach the live site.
 
 ```
-push code → run tests → pass? → deploy
-                       → fail? → stop
+## Pipeline Description
+
+Every push to the `main` branch triggers the CI/CD pipeline:
+
+1. GitHub Actions starts automatically
+2. Dependencies are installed
+3. Automated tests are executed
+4. If tests pass → the app is deployed to Render
+5. If tests fail → deployment is stopped
+
+This ensures only working code reaches production.
 ```
 
 ---
